@@ -7,10 +7,12 @@
 <br />
 <br />
 
+Hi there, I'm **Pratama** Mobile Developer from Yogyakarta, experienced mobile development for 5 year++.
+
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Mobile Developmennt with Kotlin
+- 🌱 I’m currently learning Flutter, Python
+- 👯 I’m looking to collaborate on Mobile Developmennt with Kotlin and Flutter
 - 💬 Ask me about anything, I am happy to help;
 - 😄 Pronouns: ... He / Him
 - ⚡ Fun fact: ... I love coding, cycling, coffee
