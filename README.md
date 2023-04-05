@@ -11,11 +11,11 @@ Hi there, I'm **Pratama** Mobile Developer from Yogyakarta, experienced mobile d
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Flutter, Python
+- 🌱 I’m currently learning Flutter, Golang, Python
 - 👯 I’m looking to collaborate on Mobile Developmennt with Kotlin and Flutter
 - 💬 Ask me about anything, I am happy to help;
 - 😄 Pronouns: ... He / Him
-- ⚡ Fun fact: ... I love coding, cycling, coffee
+- ⚡ Fun fact: ... I love coding, cycling and coffee
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratamawijaya&layout=compact&hide=html" alt="pratamawijaya" /></p>
