@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Hi there, I'm **Pratama** Mobile Developer from Yogyakarta, experienced mobile development for 5 year++.
+Hi there, My name is **Pratama** Mobile Developer from Yogyakarta, experienced mobile development for 5 year++.
 
 **Talking about Personal Stuffs:**
 
